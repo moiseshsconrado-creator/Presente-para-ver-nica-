@@ -35,4 +35,29 @@ allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-pictur
 loading="lazy">
 </iframe>
 
+</div><div style="text-align:center; margin:30px 0;">
+
+<img src="images/foto1.jpg"
+alt="Nosotros"
+style="
+width:280px;
+max-width:90%;
+border-radius:25px;
+border:6px solid #ffd6e7;
+box-shadow:
+0 0 20px #ff5c93,
+0 0 40px rgba(255,105,180,.5);
+transition:.5s;
+">
+
+<p style="
+margin-top:15px;
+font-size:22px;
+font-family:'Dancing Script',cursive;
+color:#ffd6e7;
+text-shadow:0 0 10px #ff7aa8;">
+❤️ Tú y yo, para siempre ❤️
+</p>
+
 </div>
+
